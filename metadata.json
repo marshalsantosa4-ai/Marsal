@@ -1,0 +1,6 @@
+{
+  "name": "UT Portal",
+  "description": "Portal Belajar UT - UAS Ready",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
